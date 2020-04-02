@@ -1,8 +1,8 @@
 #! /bin/bash
 # Name: grb2nc.sh
-# Purpose: Convert COSM grb data to NETCDF files
+# Purpose: Convert COSMO grb data to NETCDF files
 # Author: Mostafa Bakhoday-Paskyabi (Mostafa.Bakhoday-Paskyabi@uib.no)
-# Created: October 2020
+# Created: April 2020
 # Copyright: (c) UiB Norway 2020
 # Licence:
 # This script is free software: you can redistribute it and/or modify
