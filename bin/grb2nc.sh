@@ -41,7 +41,7 @@ if [ $# -lt 5 ] ; then
     echo "when running this script"
     echo ""
     echo "Example:"
-    echo "./grb2nc_merge.sh  -2.0 5.0 -2.0 2.5 QV3D /Volumes/BakhodayPaskyabi/COSMO-RE2/QV3D/*.grb"
+    echo "./grb2nc.sh  -2.0 5.0 -2.0 2.5 QV3D /Volumes/BakhodayPaskyabi/COSMO-RE2/QV3D/*.grb"
     echo "Here you specified lonmin=-2.0, lonmax=5.0, latmin=-2, latmax=2"
     echo "Your grb files have prefix of QV3D. This will use to name your final merged output ncfile."
     echo "Finally you specify thepath of your all grb files."
